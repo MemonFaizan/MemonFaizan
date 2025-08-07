@@ -2,7 +2,7 @@
 <img src="https://raw.githubusercontent.com/MemonFaizan/MemonFaizan/main/banner.jpg" alt="Banner with AI/ML graphics" style="width:100%;"/>
 
 <h1 align="center">Hi 👋, I'm Faizan Memon</h1>
-<h3 align="center">AI/ML Enthusiast & Developer | Pythonic Thinker | Open to Research & Innovation</h3>
+<h3 align="center">Full-Stack & AI/ML Developer | Bridging Frontend, Backend & Intelligence</h3>
 
 ---
 
