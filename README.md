@@ -85,5 +85,5 @@ I'm an AI/ML-focused developer with hands-on experience in deep learning, predic
 
 <!-- Footer wave GIF -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=8B008B|0000FF&height=150&section=footer" alt="footer wave" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF00FF,0000FF&height=150&section=footer&text=&fontColor=ffffff" alt="footer wave" width="100%" />
 </div>
