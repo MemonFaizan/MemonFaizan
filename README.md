@@ -1,9 +1,16 @@
 <h1 align="center">Hi 👋, I'm Faizan Memon</h1>
 <h3 align="center">Full-Stack & AI/ML Developer | Bridging Frontend, Backend & Intelligence</h3>
 
+<!-- Typing SVG GIF under title -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=4000&color=F70000&center=true&vCenter=true&width=600&lines=AI%2FML+Enthusiast+%26+Full+Stack+Developer;Pythonic+Thinker;Open+to+Research+%26+Innovation;Building+Real+World+Solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=8B008B&center=true&vCenter=true&width=500&lines=AI%2FML+Engineer+%F0%9F%A4%96;Full+Stack+Developer+%F0%9F%92%BB;Open+Source+Contributor+%F0%9F%8C%9F;Lifelong+Learner+%F0%9F%93%9A" alt="Typing SVG" />
 </p>
+
+<!-- Coding setup GIF -->
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF" width="110%" />
+</p>
+
 ---
 
 ### 💡 About Me
@@ -75,8 +82,8 @@ I'm an AI/ML-focused developer with hands-on experience in deep learning, predic
 ---
 
 > ⚙️ *Always Building. Always Learning. Always Improving.*
->
-> <!-- Footer GIF -->
+
+<!-- Footer wave GIF -->
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coder at work" width="600" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
