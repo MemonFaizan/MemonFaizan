@@ -83,15 +83,7 @@ I'm an AI/ML-focused developer with hands-on experience in deep learning, predic
 
 > ⚙️ *Always Building. Always Learning. Always Improving.*
 
-<!-- Custom purple-blue gradient footer -->
-<div align="center" style="margin-top:20px;">
-  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 320" width="100%" height="150">
-    <defs>
-      <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="0%">
-        <stop offset="0%" style="stop-color:#8B008B;stop-opacity:1" />
-        <stop offset="100%" style="stop-color:#0000FF;stop-opacity:1" />
-      </linearGradient>
-    </defs>
-    <path fill="url(#grad)" d="M0,64L48,69.3C96,75,192,85,288,106.7C384,128,480,160,576,149.3C672,139,768,85,864,64C960,43,1056,53,1152,64C1248,75,1344,85,1392,90.7L1440,96V320H0V96Z"></path>
-  </svg>
+<!-- Animated purple-blue footer GIF -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/master/wave-footer.gif" width="100%" />
 </div>
