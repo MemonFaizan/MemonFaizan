@@ -84,5 +84,7 @@ I'm an AI/ML-focused developer with hands-on experience in deep learning, predic
 > ⚙️ *Always Building. Always Learning. Always Improving.*
 
 <div align="center">
-  <img src="https://github.com/MemonFaizan/MemonFaizan/blob/main/footer.svg?raw=true" width="100%" alt="Footer scene" />
+  <img src="https://github.com/USERNAME/REPO/blob/main/wave.gif?raw=true" 
+       alt="Footer Wave" 
+       width="100%" />
 </div>
