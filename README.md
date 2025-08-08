@@ -83,17 +83,6 @@ I'm an AI/ML-focused developer with hands-on experience in deep learning, predic
 
 > ⚙️ *Always Building. Always Learning. Always Improving.*
 
-<!-- Custom starry + rotated gradient valley footer -->
-<div style="position: relative; width: 100%; height: 150px; overflow: hidden;">
-  
-  <!-- Valley foreground (rotated for upward wave) -->
-  <img src="https://github.com/MemonFaizan/MemonFaizan/blob/main/valley-white.svg?raw=true"
-       alt="Valley foreground" 
-       style="position:absolute; top:0; left:0; width:100%; height:auto; z-index:2; transform:rotate(180deg); filter:invert(26%) sepia(80%) saturate(600%) hue-rotate(250deg);" />
-
-  <!-- Starry background (moon sky) -->
-  <img src="https://github.com/MemonFaizan/MemonFaizan/blob/main/starry.svg?raw=true"
-       alt="Starry background" 
-       style="position:absolute; bottom:0; left:0; width:100%; height:120px; object-fit:cover; z-index:1;" />
-
+<div align="center">
+  <img src="https://github.com/MemonFaizan/MemonFaizan/blob/main/footer-scene.svg?raw=true" width="100%" alt="Footer scene" />
 </div>
