@@ -1,9 +1,9 @@
-<!-- Banner Image -->
-<img src="https://raw.githubusercontent.com/MemonFaizan/MemonFaizan/main/banner.jpg" alt="Banner with AI/ML graphics" style="width:100%;"/>
-
 <h1 align="center">Hi 👋, I'm Faizan Memon</h1>
 <h3 align="center">Full-Stack & AI/ML Developer | Bridging Frontend, Backend & Intelligence</h3>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=4000&color=F70000&center=true&vCenter=true&width=600&lines=AI%2FML+Enthusiast+%26+Full+Stack+Developer;Pythonic+Thinker;Open+to+Research+%26+Innovation;Building+Real+World+Solutions" alt="Typing SVG" />
+</p>
 ---
 
 ### 💡 About Me
@@ -75,3 +75,8 @@ I'm an AI/ML-focused developer with hands-on experience in deep learning, predic
 ---
 
 > ⚙️ *Always Building. Always Learning. Always Improving.*
+>
+> <!-- Footer GIF -->
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coder at work" width="600" />
+</p>
