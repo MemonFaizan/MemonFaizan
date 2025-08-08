@@ -84,5 +84,6 @@ I'm an AI/ML-focused developer with hands-on experience in deep learning, predic
 > ⚙️ *Always Building. Always Learning. Always Improving.*
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=8B008B,4B0082,0000FF&height=100&section=footer"/>
+  <img src="[https://capsule-render.vercel.app/api?type=waving&color=8B008B,4B0082,0000FF&height=100&section=footer](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&section=footer&reversal=true)"/>
 </p>
+
