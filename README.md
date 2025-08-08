@@ -7,9 +7,9 @@
 </p>
 
 <!-- Coding setup GIF -->
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF" width="110%" />
-</p>
+<div align="center">
+  <img src="https://github.com/btwitsPratyush/btwitsPratyush/blob/main/assets/coding%20(1).gif?raw=true" alt="Hacker setup GIF" width="100%" />
+</div>
 
 ---
 
@@ -85,5 +85,5 @@ I'm an AI/ML-focused developer with hands-on experience in deep learning, predic
 
 <!-- Footer wave GIF -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0A66C2&height=150&section=footer"/>
 </p>
