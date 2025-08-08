@@ -83,8 +83,20 @@ I'm an AI/ML-focused developer with hands-on experience in deep learning, predic
 
 > ⚙️ *Always Building. Always Learning. Always Improving.*
 
-<div align="center">
-  <img src="https://github.com/MemonFaizan/MemonFaizan/blob/main/wave.gif?raw=true"
-       alt="Footer Wave" 
-       style="width:100%; height:150px;" />
+<!-- Custom Purple-Blue Gradient Wave Footer -->
+<div style="position: relative; width: 100%; height: 200px; overflow: hidden; margin-top: 40px;">
+
+  <!-- Wave SVG with Gradient -->
+  <svg viewBox="0 0 1200 200" preserveAspectRatio="none"
+       style="position:absolute; bottom:0; left:0; width:100%; height:100%;">
+    <defs>
+      <linearGradient id="purpleBlue" x1="0%" y1="0%" x2="100%" y2="0%">
+        <stop offset="0%" style="stop-color:#8B008B; stop-opacity:1" />
+        <stop offset="100%" style="stop-color:#002BFF; stop-opacity:1" />
+      </linearGradient>
+    </defs>
+    <path d="M0,80 C300,200 900,0 1200,80 L1200,200 L0,200 Z" 
+          fill="url(#purpleBlue)"></path>
+  </svg>
+
 </div>
