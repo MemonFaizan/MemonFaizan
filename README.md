@@ -84,6 +84,6 @@ I'm an AI/ML-focused developer with hands-on experience in deep learning, predic
 > ⚙️ *Always Building. Always Learning. Always Improving.*
 
 <!-- Footer wave GIF -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0A66C2&height=150&section=footer"/>
-</p>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=8B008B,0000FF&height=150&section=footer&width=100%" alt="footer wave" />
+</div>
