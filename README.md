@@ -87,12 +87,12 @@ I'm an AI/ML-focused developer with hands-on experience in deep learning, predic
 <div style="position: relative; width: 100%; height: 200px; overflow: hidden;">
 
   <!-- Starry background -->
-  <img src="https://github.com/MemonFaizan/MemonFaizan/blob/main/assets/starry.svg?raw=true"
+  <img src="https://github.com/MemonFaizan/MemonFaizan/blob/main/starry.svg?raw=true"
        alt="Starry background" 
        style="position:absolute; top:0; left:0; width:100%; height:100%; object-fit:cover; z-index:1;" />
 
   <!-- Valley foreground -->
-  <img src="https://github.com/MemonFaizan/MemonFaizan/blob/main/assets/valley.svg?raw=true"
+  <img src="https://github.com/MemonFaizan/MemonFaizan/blob/main/valley.svg?raw=true"
        alt="Valley foreground" 
        style="position:absolute; bottom:0; left:0; width:100%; height:auto; z-index:2;" />
 
