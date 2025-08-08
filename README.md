@@ -91,9 +91,8 @@ I'm an AI/ML-focused developer with hands-on experience in deep learning, predic
        alt="Starry background" 
        style="position:absolute; top:0; left:0; width:100%; height:100%; object-fit:cover; z-index:1;" />
 
-  <!-- Valley foreground -->
+  <!-- Valley foreground (curve on top) -->
   <img src="https://github.com/MemonFaizan/MemonFaizan/blob/main/valley-white.svg?raw=true"
        alt="Valley foreground" 
-       style="position:absolute; bottom:0; left:0; width:100%; height:auto; z-index:2;" />
-
+       style="position:absolute; top:0; left:0; width:100%; height:auto; z-index:2;" />
 </div>
