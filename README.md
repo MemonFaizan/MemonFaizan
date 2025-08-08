@@ -83,7 +83,16 @@ I'm an AI/ML-focused developer with hands-on experience in deep learning, predic
 
 > ⚙️ *Always Building. Always Learning. Always Improving.*
 
-<!-- Footer wave GIF -->
+<!-- Custom purple-blue gradient footer wave -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF00FF,0000FF&height=150&section=footer&text=&fontColor=ffffff" alt="footer wave" width="100%" />
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 150">
+    <defs>
+      <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="0%">
+        <stop offset="0%" style="stop-color:#8B008B;stop-opacity:1" />
+        <stop offset="100%" style="stop-color:#0000FF;stop-opacity:1" />
+      </linearGradient>
+    </defs>
+    <path fill="url(#grad)" d="M0,64L48,69.3C96,75,192,85,288,106.7C384,128,480,160,576,149.3C672,139,768,85,864,64C960,43,1056,53,1152,64C1248,75,1344,85,1392,90.7L1440,96L1440,320L1392,320C1344,320,1248,320,1152,320C1056,320,960,320,864,320C768,320,672,320,576,320C480,320,384,320,288,320C192,320,96,320,48,320L0,320Z"></path>
+  </svg>
 </div>
+
