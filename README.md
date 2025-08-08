@@ -86,5 +86,5 @@ I'm an AI/ML-focused developer with hands-on experience in deep learning, predic
 <div align="center">
   <img src="https://github.com/MemonFaizan/MemonFaizan/blob/main/wave.gif?raw=true"
        alt="Footer Wave" 
-       width="100%" />
+       style="width:100%; height:150px;" />
 </div>
